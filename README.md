@@ -63,7 +63,7 @@ The findings presented in this report provide valuable insights into various asp
 3. Visual Customization: Changing the canvas background to enhance the overall look and feel of the dashboard.
 
 4. Clustered Bar Chart: Creating clustered bar charts to visualize sales by category, subcategory, and ship mode. This allows for easy comparison and identification of trends.  
-<img src="Files/Images/Filter of Top 3 Sales by Sub Category Bar Chart.JPG" width="400" height="250" />
+<img src="Files/Images/Filter of Top 3 Sales by Sub Category Bar Chart.JPG" width="350" height="450" />
 
 5. Stacked Area Chart: to compare sales and profit year over year. Analyzing monthly sales and profit trends provides insights into performance patterns.  
 <img src="Files/Images/Area Chart Sales Profit Insight YoY.JPG" width="600" height="350" />
