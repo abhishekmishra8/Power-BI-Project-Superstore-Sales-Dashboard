@@ -10,7 +10,7 @@ click the Github Page Link to see the video
 Project Report and Dashboard Sreenshot shown below:  
 <img src="Files/Images/Sales Dashboard Superstore.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Files/Images/Dashboard Forecast.JPG" width="400" height="250" />
 
-Objective : To contribute to the success of a business by utilizing techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+**Objective** : To contribute to the success of a business by utilizing techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 - Dashboard Creation
 - Data Analysis
 - Sales Forecasting
@@ -62,26 +62,26 @@ The findings presented in this report provide valuable insights into various asp
 
 3. Visual Customization: Changing the canvas background to enhance the overall look and feel of the dashboard.
 
-3. Clustered Bar Chart: Creating clustered bar charts to visualize sales by category, subcategory, and ship mode. This allows for easy comparison and identification of trends.  
+4. Clustered Bar Chart: Creating clustered bar charts to visualize sales by category, subcategory, and ship mode. This allows for easy comparison and identification of trends.  
 <img src="Files/Images/Filter of Top 3 Sales by Sub Category Bar Chart.JPG" width="400" height="250" />
 
-4. Stacked Area Chart: to compare sales and profit year over year. Analyzing monthly sales and profit trends provides insights into performance patterns.  
-<img src="Files/Images/Area Chart Sales Profit Insight YoY.JPG" width="400" height="250" />
+5. Stacked Area Chart: to compare sales and profit year over year. Analyzing monthly sales and profit trends provides insights into performance patterns.  
+<img src="Files/Images/Area Chart Sales Profit Insight YoY.JPG" width="600" height="350" />
 
-5. Map Visualization: Displaying state-wise sales and profit using a map.
+6. Map Visualization: Displaying state-wise sales and profit using a map.
 - To Enable value on Map follow the steps. File -> Options & Settings -> Options -> Security -> tick 'Use Map and Filled Map Visuals'.  
-<img src="Files/Images/Map Value Enable Setting.JPG" width="400" height="250" />
+<img src="Files/Images/Map Value Enable Setting.JPG" width="400" height="400" />
 
-6. Donut Chart: to showcase sales by segment, payment mode, and region.
+7. Donut Chart: to showcase sales by segment, payment mode, and region.
 
-7. Slicer: to filer the report by region.
+8. Slicer: to filer the report by region.
 
-8. Display the KPIs using Card.
+9. Display the KPIs using Card.
 - Sum of Sales, Profit, Quantity, Average Delivery Time ( Create New column Step 9)
 
-9. Add new Column. This helps analyze the efficiency of order processing and delivery.
+10. Add new Column. This helps analyze the efficiency of order processing and delivery.
 - AvgDeliveryTime = DATEDIFF('SuperStore_Sales_Dataset'[Order Date],'SuperStore_Sales_Dataset'[Ship Date],DAY)
 
-10. Sales Forecast: Adding a new page to showcase sales forecast using a line chart visual. This allows users to analyze and predict future sales trends based on historical data.
+11. Sales Forecast: Adding a new page to showcase sales forecast using a line chart visual. This allows users to analyze and predict future sales trends based on historical data.
 
 Through these key steps, the Superstore Sales Dashboard in Power BI enables users to gain valuable insights, identify trends, and make data-driven decisions to optimize sales performance and improve overall business outcomes.
