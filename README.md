@@ -54,7 +54,7 @@ The findings presented in this report provide valuable insights into various asp
 
 
 
-Key Learnings from the Power BI Project on Superstore Sales Dashboard:-
+### Key Learnings from the Power BI Project on Superstore Sales Dashboard:-
 
 1. Data Import: Importing CSV files into Power BI and connecting them to create a dataset for analysis.
 
@@ -62,12 +62,15 @@ Key Learnings from the Power BI Project on Superstore Sales Dashboard:-
 
 3. Visual Customization: Changing the canvas background to enhance the overall look and feel of the dashboard.
 
-3. Clustered Bar Chart: Creating clustered bar charts to visualize sales by category, subcategory, and ship mode. This allows for easy comparison and identification of trends.
+3. Clustered Bar Chart: Creating clustered bar charts to visualize sales by category, subcategory, and ship mode. This allows for easy comparison and identification of trends.  
+<img src="Files/Images/Filter of Top 3 Sales by Sub Category Bar Chart.JPG" width="400" height="250" />
 
-4. Stacked Area Chart: to compare sales and profit year over year. Analyzing monthly sales and profit trends provides insights into performance patterns.
+4. Stacked Area Chart: to compare sales and profit year over year. Analyzing monthly sales and profit trends provides insights into performance patterns.  
+<img src="Files/Images/Area Chart Sales Profit Insight YoY.JPG" width="400" height="250" />
 
 5. Map Visualization: Displaying state-wise sales and profit using a map.
-- To Enable value on Map follow the steps. File -> Options & Settings -> Options -> Security -> tick 'Use Map and Filled Map Visuals'.
+- To Enable value on Map follow the steps. File -> Options & Settings -> Options -> Security -> tick 'Use Map and Filled Map Visuals'.  
+<img src="Files/Images/Map Value Enable Setting.JPG" width="400" height="250" />
 
 6. Donut Chart: to showcase sales by segment, payment mode, and region.
 
