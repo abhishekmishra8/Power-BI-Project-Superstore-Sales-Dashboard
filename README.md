@@ -20,14 +20,14 @@ click the Github Page Link to see the video
 <details><summary>Project Dashboard Sreenshot shown below:</summary>  
 <img src="Files/Images/Sales Dashboard Superstore.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Files/Images/Dashboard Forecast.JPG" width="400" height="250" /></details>  <br>
 
-<details><summary> **Objective** :</summary>  To contribute to the success of a business by utilizing techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+<details><summary> <b>Objective</b> :</summary>  To contribute to the success of a business by utilizing techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 - Dashboard Creation
 - Data Analysis
 - Sales Forecasting
 - Actionable Insights and Recommendations
 </details>
 
-**Business Insights Report: Analyzing Key Findings**
+<details><summary><strong>Business Insights Report: Analyzing Key Findings</strong></summary>
 
 *Executive Summary:*
 This report presents a comprehensive analysis of key findings derived from our business data. By examining payment modes, regions, customer segments, sales performance, profitability, shipping modes, product categories, sales forecast, and state-wise sales, we have gained valuable insights that can guide our business decisions and strategies. These findings shed light on customer preferences, market dynamics, and areas of opportunity. By leveraging these insights, we can optimize our operations, drive sales growth, and enhance profitability.
@@ -61,7 +61,7 @@ California dominated sales, with the highest sum, accounting for 30.92% of the t
 
 *Conclusion:*
 The findings presented in this report provide valuable insights into various aspects of our business. By analyzing payment modes, regions, customer segments, sales performance, profitability, shipping modes, product categories, sales forecasts, and state-wise sales, we can make informed decisions and formulate strategies to optimize operations, drive growth, and enhance profitability. It is crucial to continue monitoring these metrics, conduct further analysis, and adapt our strategies based on evolving customer preferences and market dynamics. By leveraging these insights effectively, we can stay ahead of the competition and deliver exceptional value to our customers.
-
+</details>
 
 
 
