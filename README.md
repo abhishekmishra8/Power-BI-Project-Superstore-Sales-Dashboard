@@ -2,11 +2,10 @@
 
 # See More Projects
 
-<details open>
-<summary>Dashboards List</summary>
+<details><summary>Link</summary>
 
-- [Bank Domain Dashboard](https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/) <br>
-- [HR Employees Dashboard](https://abhishekmishra8.github.io/PowerBI_Project_HR_Employees/)
+- <a href="https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/">Bank Domain Dashboard</a>
+- <a href="https://abhishekmishra8.github.io/PowerBI_Project_HR_Employees/">HR Employees Dashboard</a>
 
 </details>
 
