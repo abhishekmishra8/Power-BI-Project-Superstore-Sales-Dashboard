@@ -10,6 +10,7 @@
 - [HR Employees Dashboard](https://abhishekmishra8.github.io/PowerBI_Project_HR_Employees/)
 </details>
 
+<br>
 
 Project Report Video shown below:
 <video width="650" height="360" controls autoplay muted loop>
