@@ -1,15 +1,5 @@
 [Follow me on LinkedIn](https://www.linkedin.com/in/abhishekmishra3/) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Repository Link](https://github.com/abhishekmishra8/Power-BI-Project-Superstore-Sales-Dashboard) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Superstore-Sales-Dashboard/)
 
-<div align=right>
-<details><summary>See More Projects here:</summary>
-
-1. <a href="https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/">Bank Domain Dashboard</a> <br>
-2. <a href="https://abhishekmishra8.github.io/PowerBI_Project_HR_Employees/">HR Employees Dashboard</a>
-
-</details>
-</div>
-<br>
-
 <details><summary>Project Report Video shown below:</summary>
 <video width="650" height="360" controls autoplay muted loop>
 <source src="Files/Images/Dashboard Video.mp4" type="video/mp4">
@@ -25,7 +15,7 @@ click the Github Page Link to see the video
 - Data Analysis
 - Sales Forecasting
 - Actionable Insights and Recommendations
-</details>
+</details><br><br>
 
 <details><summary><strong>Business Insights Report: Analyzing Key Findings</strong></summary>
 
@@ -61,7 +51,7 @@ California dominated sales, with the highest sum, accounting for 30.92% of the t
 
 *Conclusion:*
 The findings presented in this report provide valuable insights into various aspects of our business. By analyzing payment modes, regions, customer segments, sales performance, profitability, shipping modes, product categories, sales forecasts, and state-wise sales, we can make informed decisions and formulate strategies to optimize operations, drive growth, and enhance profitability. It is crucial to continue monitoring these metrics, conduct further analysis, and adapt our strategies based on evolving customer preferences and market dynamics. By leveraging these insights effectively, we can stay ahead of the competition and deliver exceptional value to our customers.
-</details>
+</details><br><br>
 
 
 
@@ -93,12 +83,16 @@ The findings presented in this report provide valuable insights into various asp
 10. Add new Column. This helps analyze the efficiency of order processing and delivery.
 - AvgDeliveryTime = DATEDIFF('SuperStore_Sales_Dataset'[Order Date],'SuperStore_Sales_Dataset'[Ship Date],DAY)
 
-11. Sales Forecast: Adding a new page to showcase sales forecast using a line chart visual. This allows users to analyze and predict future sales trends based on historical data.
+11. Sales Forecast: Adding a new page to showcase sales forecast using a line chart visual. This allows users to analyze and predict future sales trends based on historical data.  
 
-Through these key steps, the Superstore Sales Dashboard in Power BI enables users to gain valuable insights, identify trends, and make data-driven decisions to optimize sales performance and improve overall business outcomes.
+Through these key steps, the Superstore Sales Dashboard in Power BI enables users to gain valuable insights, identify trends, and make data-driven decisions to optimize sales performance and improve overall business outcomes.  
+</details>  <br><br>
+<details><summary>See More Projects here:</summary>
+
+1. <a href="https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/">Bank Domain Dashboard</a> <br>
+2. <a href="https://abhishekmishra8.github.io/PowerBI_Project_HR_Employees/">HR Employees Dashboard</a>
+
 </details>
-
-
-
+<br><br>
 
 [Go To TOP](#TOP)
