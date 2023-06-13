@@ -16,6 +16,7 @@ click the Github Page Link to see the video
 </details><br>
 
 <details><summary><strong>Business Insights Report: Analyzing Key Findings</strong></summary>
+<br>
 
 <b>Executive Summary:</b> <br>
 This report presents a comprehensive analysis of key findings derived from our business data. By examining payment modes, regions, customer segments, sales performance, profitability, shipping modes, product categories, sales forecast, and state-wise sales, we have gained valuable insights that can guide our business decisions and strategies. These findings shed light on customer preferences, market dynamics, and areas of opportunity. By leveraging these insights, we can optimize our operations, drive sales growth, and enhance profitability.<br><br>
@@ -85,8 +86,11 @@ Through these key steps, the Superstore Sales Dashboard in Power BI enables user
 </details>  <br><br>
 
 <details><summary><strong>Credits :</strong></summary>
-Thank you Rishabh Mishra for the guidance.
-[Guided Project Youtube Video Click Here](https://www.youtube.com/watch?v=fZn83JRt4Nk&t=560s)</details><br><br>
+Thank you Rishabh Mishra for the guidance.<br>
+
+[Guided Project Youtube Video Click Here](https://www.youtube.com/watch?v=fZn83JRt4Nk&t=560s)
+
+</details>
 
 <details><summary><strong>See More Projects here:</strong></summary>
 
@@ -94,6 +98,6 @@ Thank you Rishabh Mishra for the guidance.
 2. <a href="https://abhishekmishra8.github.io/PowerBI_Project_HR_Employees/">HR Employees Dashboard</a>
 
 </details>
-<br><br>
+<br>
 
 [Go To TOP](#TOP)
