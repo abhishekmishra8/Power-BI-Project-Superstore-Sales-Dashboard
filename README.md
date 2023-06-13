@@ -1,8 +1,6 @@
-[Follow me on LinkedIn](https://www.linkedin.com/in/abhishekmishra3/) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Repository Link](https://github.com/abhishekmishra8/Power-BI-Project-Superstore-Sales-Dashboard) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Superstore-Sales-Dashboard/) &nbsp;&nbsp; | &nbsp;&nbsp; <details><summary>Link</summary>
-
+[Follow me on LinkedIn](https://www.linkedin.com/in/abhishekmishra3/) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Repository Link](https://github.com/abhishekmishra8/Power-BI-Project-Superstore-Sales-Dashboard) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Superstore-Sales-Dashboard/) &nbsp;&nbsp; | &nbsp;&nbsp; <details><summary>Link</summary> <br>  
 1. <a href="https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/">Bank Domain Dashboard</a> <br>
 2. <a href="https://abhishekmishra8.github.io/PowerBI_Project_HR_Employees/">HR Employees Dashboard</a>
-
 </details>
 
 # See More Projects
