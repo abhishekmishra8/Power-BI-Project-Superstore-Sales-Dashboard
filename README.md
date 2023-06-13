@@ -10,15 +10,15 @@
 </div>
 <br>
 
-Project Report Video shown below:
+<details><summary>Project Report Video shown below:</summary>
 <video width="650" height="360" controls autoplay muted loop>
 <source src="Files/Images/Dashboard Video.mp4" type="video/mp4">
 click the Github Page Link to see the video
-</video>
+</video> </details>
 
 <br><br>
-Project Report and Dashboard Sreenshot shown below:  
-<img src="Files/Images/Sales Dashboard Superstore.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Files/Images/Dashboard Forecast.JPG" width="400" height="250" />
+<details><summary>Project Dashboard Sreenshot shown below:</summary>  
+<img src="Files/Images/Sales Dashboard Superstore.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Files/Images/Dashboard Forecast.JPG" width="400" height="250" /></details>
 
 **Objective** : To contribute to the success of a business by utilizing techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 - Dashboard Creation
