@@ -1,5 +1,15 @@
 [Follow me on LinkedIn](https://www.linkedin.com/in/abhishekmishra3/) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Repository Link](https://github.com/abhishekmishra8/Power-BI-Project-Superstore-Sales-Dashboard) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Superstore-Sales-Dashboard/)
 
+# See More Projects
+
+<details open>
+<summary>Dashboards List</summary>
+<br>
+- [Bank Domain Dashboard](https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/)
+- [HR Employees Dashboard](https://abhishekmishra8.github.io/PowerBI_Project_HR_Employees/)
+</details>
+
+
 Project Report Video shown below:
 <video width="650" height="360" controls autoplay muted loop>
 <source src="Files/Images/Dashboard Video.mp4" type="video/mp4">
