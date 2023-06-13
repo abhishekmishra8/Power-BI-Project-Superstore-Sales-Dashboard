@@ -18,13 +18,14 @@ click the Github Page Link to see the video
 
 <br><br>
 <details><summary>Project Dashboard Sreenshot shown below:</summary>  
-<img src="Files/Images/Sales Dashboard Superstore.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Files/Images/Dashboard Forecast.JPG" width="400" height="250" /></details>
+<img src="Files/Images/Sales Dashboard Superstore.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Files/Images/Dashboard Forecast.JPG" width="400" height="250" /></details>  <br>
 
-**Objective** : To contribute to the success of a business by utilizing techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+<details><summary> **Objective** :</summary>  To contribute to the success of a business by utilizing techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 - Dashboard Creation
 - Data Analysis
 - Sales Forecasting
 - Actionable Insights and Recommendations
+</details>
 
 **Business Insights Report: Analyzing Key Findings**
 
