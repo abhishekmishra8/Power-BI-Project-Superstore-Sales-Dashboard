@@ -57,33 +57,33 @@ The findings presented in this report provide valuable insights into various asp
 
 <details><summary><strong>Key Learnings from the Power BI Project on Superstore Sales Dashboard:-</strong></summary>
 
-1. Data Import: Importing CSV files into Power BI and connecting them to create a dataset for analysis.
+1. Data Import: Importing CSV files into Power BI and connecting them to create a dataset for analysis.<br><br>
 
-2. Data Transformation: Using Power Query to clean and prepare the data. This involves removing unnecessary columns and ensuring proper data types for accurate analysis.
+2. Data Transformation: Using Power Query to clean and prepare the data. This involves removing unnecessary columns and ensuring proper data types for accurate analysis.<br><br>
 
-3. Visual Customization: Changing the canvas background to enhance the overall look and feel of the dashboard.
+3. Visual Customization: Changing the canvas background to enhance the overall look and feel of the dashboard.<br><br>
 
-4. Clustered Bar Chart: Creating clustered bar charts to visualize sales by category, subcategory, and ship mode. This allows for easy comparison and identification of trends.  
-<img src="Files/Images/Filter of Top 3 Sales by Sub Category Bar Chart.JPG" width="350" height="450" />
+4. Clustered Bar Chart: Creating clustered bar charts to visualize sales by category, subcategory, and ship mode. This allows for easy comparison and identification of trends.<br>
+<img src="Files/Images/Filter of Top 3 Sales by Sub Category Bar Chart.JPG" width="350" height="450" /><br><br>
 
-5. Stacked Area Chart: to compare sales and profit year over year. Analyzing monthly sales and profit trends provides insights into performance patterns.  
-<img src="Files/Images/Area Chart Sales Profit Insight YoY.JPG" width="600" height="350" />
+5. Stacked Area Chart: to compare sales and profit year over year. Analyzing monthly sales and profit trends provides insights into performance patterns.<br>
+<img src="Files/Images/Area Chart Sales Profit Insight YoY.JPG" width="600" height="350" /><br><br>
 
-6. Map Visualization: Displaying state-wise sales and profit using a map.
+6. Map Visualization: Displaying state-wise sales and profit using a map. <br>
 - To Enable value on Map follow the steps. File -> Options & Settings -> Options -> Security -> tick 'Use Map and Filled Map Visuals'.  
-<img src="Files/Images/Map Value Enable Setting.JPG" width="400" height="400" />
+<img src="Files/Images/Map Value Enable Setting.JPG" width="400" height="400" /><br><br>
 
-7. Donut Chart: to showcase sales by segment, payment mode, and region.
+7. Donut Chart: to showcase sales by segment, payment mode, and region.<br><br>
 
-8. Slicer: to filer the report by region.
+8. Slicer: to filer the report by region.<br><br>
 
-9. Display the KPIs using Card.
-- Sum of Sales, Profit, Quantity, Average Delivery Time ( Create New column Step 9)
+9. Display the KPIs using Card.<br>
+- Sum of Sales, Profit, Quantity, Average Delivery Time ( Create New column Step 10)<br><br>
 
-10. Add new Column. This helps analyze the efficiency of order processing and delivery.
-- AvgDeliveryTime = DATEDIFF('SuperStore_Sales_Dataset'[Order Date],'SuperStore_Sales_Dataset'[Ship Date],DAY)
+10. Add new Column. This helps analyze the efficiency of order processing and delivery.<br>
+- `AvgDeliveryTime = DATEDIFF('SuperStore_Sales_Dataset'[Order Date],'SuperStore_Sales_Dataset'[Ship Date],DAY)` <br><br>
 
-11. Sales Forecast: Adding a new page to showcase sales forecast using a line chart visual. This allows users to analyze and predict future sales trends based on historical data.  
+11. Sales Forecast: Adding a new page to showcase sales forecast using a line chart visual. This allows users to analyze and predict future sales trends based on historical data.<br><br>
 
 Through these key steps, the Superstore Sales Dashboard in Power BI enables users to gain valuable insights, identify trends, and make data-driven decisions to optimize sales performance and improve overall business outcomes.  
 </details>  <br><br>
