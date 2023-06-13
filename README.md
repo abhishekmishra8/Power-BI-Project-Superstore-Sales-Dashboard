@@ -87,7 +87,7 @@ The findings presented in this report provide valuable insights into various asp
 
 Through these key steps, the Superstore Sales Dashboard in Power BI enables users to gain valuable insights, identify trends, and make data-driven decisions to optimize sales performance and improve overall business outcomes.  
 </details>  <br><br>
-<details><summary>See More Projects here:</summary>
+<details><summary><strong>See More Projects here:</strong></summary>
 
 1. <a href="https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/">Bank Domain Dashboard</a> <br>
 2. <a href="https://abhishekmishra8.github.io/PowerBI_Project_HR_Employees/">HR Employees Dashboard</a>
