@@ -86,10 +86,10 @@ Through these key steps, the Superstore Sales Dashboard in Power BI enables user
 </details>  <br><br>
 
 <details><summary><strong>Credits :</strong></summary>
+
 Thank you Rishabh Mishra for the guidance.<br>
 
-[Guided Project Youtube Video Click Here](https://www.youtube.com/watch?v=fZn83JRt4Nk&t=560s)
-
+<a href="https://www.youtube.com/watch?v=fZn83JRt4Nk&t=560s">Guided Project Youtube Video Click Here</a>
 </details>
 
 <details><summary><strong>See More Projects here:</strong></summary>
