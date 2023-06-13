@@ -65,7 +65,7 @@ The findings presented in this report provide valuable insights into various asp
 
 
 
-### Key Learnings from the Power BI Project on Superstore Sales Dashboard:-
+<details><summary><strong>Key Learnings from the Power BI Project on Superstore Sales Dashboard:-</strong></summary>
 
 1. Data Import: Importing CSV files into Power BI and connecting them to create a dataset for analysis.
 
@@ -96,7 +96,7 @@ The findings presented in this report provide valuable insights into various asp
 11. Sales Forecast: Adding a new page to showcase sales forecast using a line chart visual. This allows users to analyze and predict future sales trends based on historical data.
 
 Through these key steps, the Superstore Sales Dashboard in Power BI enables users to gain valuable insights, identify trends, and make data-driven decisions to optimize sales performance and improve overall business outcomes.
-
+</details>
 
 
 
