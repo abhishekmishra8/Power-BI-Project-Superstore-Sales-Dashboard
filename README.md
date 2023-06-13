@@ -1,12 +1,10 @@
-[Follow me on LinkedIn](https://www.linkedin.com/in/abhishekmishra3/) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Repository Link](https://github.com/abhishekmishra8/Power-BI-Project-Superstore-Sales-Dashboard) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Superstore-Sales-Dashboard/)
+[Follow me on LinkedIn](https://www.linkedin.com/in/abhishekmishra3/) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Repository Link](https://github.com/abhishekmishra8/Power-BI-Project-Superstore-Sales-Dashboard) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Superstore-Sales-Dashboard/)<br>
 
 <details><summary>Project Report Video shown below:</summary>
 <video width="650" height="360" controls autoplay muted loop>
 <source src="Files/Images/Dashboard Video.mp4" type="video/mp4">
 click the Github Page Link to see the video
 </video> </details>
-
-<br><br>
 <details><summary>Project Dashboard Sreenshot shown below:</summary>  
 <img src="Files/Images/Sales Dashboard Superstore.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Files/Images/Dashboard Forecast.JPG" width="400" height="250" /></details>  <br>
 
@@ -77,11 +75,9 @@ The findings presented in this report provide valuable insights into various asp
 
 8. Slicer: to filer the report by region.<br><br>
 
-9. Display the KPIs using Card.<br>
-- Sum of Sales, Profit, Quantity, Average Delivery Time ( Create New column Step 10)<br><br>
+9. Display the KPIs using Card.<br> Sum of Sales, Profit, Quantity, Average Delivery Time ( Create New column Step 10)<br><br>
 
-10. Add new Column. This helps analyze the efficiency of order processing and delivery.<br>
--   AvgDeliveryTime = DATEDIFF('SuperStore_Sales_Dataset'[Order Date],'SuperStore_Sales_Dataset'[Ship Date],DAY) <br><br>
+10. Add new Column. This helps analyze the efficiency of order processing and delivery.<br> AvgDeliveryTime = DATEDIFF('SuperStore_Sales_Dataset'[Order Date],'SuperStore_Sales_Dataset'[Ship Date],DAY) <br><br>
 
 11. Sales Forecast: Adding a new page to showcase sales forecast using a line chart visual. This allows users to analyze and predict future sales trends based on historical data.<br><br>
 
