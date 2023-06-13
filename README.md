@@ -8,12 +8,12 @@ click the Github Page Link to see the video
 <details><summary>Project Dashboard Sreenshot shown below:</summary>  
 <img src="Files/Images/Sales Dashboard Superstore.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Files/Images/Dashboard Forecast.JPG" width="400" height="250" /></details>  <br>
 
-<details><summary> <b>Objective</b> :</summary>  To contribute to the success of a business by utilizing techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
-- Dashboard Creation
-- Data Analysis
-- Sales Forecasting
-- Actionable Insights and Recommendations
-</details>
+<details><summary> <b>Objective</b> :</summary>  To contribute to the success of a business by utilizing techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.<br>
+- Dashboard Creation<br>
+- Data Analysis<br>
+- Sales Forecasting<br>
+- Actionable Insights and Recommendations<br>
+</details><br>
 
 <details><summary><strong>Business Insights Report: Analyzing Key Findings</strong></summary>
 
@@ -49,7 +49,7 @@ California dominated sales, with the highest sum, accounting for 30.92% of the t
 
 <b>Conclusion:</b><br>
 The findings presented in this report provide valuable insights into various aspects of our business. By analyzing payment modes, regions, customer segments, sales performance, profitability, shipping modes, product categories, sales forecasts, and state-wise sales, we can make informed decisions and formulate strategies to optimize operations, drive growth, and enhance profitability. It is crucial to continue monitoring these metrics, conduct further analysis, and adapt our strategies based on evolving customer preferences and market dynamics. By leveraging these insights effectively, we can stay ahead of the competition and deliver exceptional value to our customers.
-</details>
+</details><br>
 
 
 
@@ -83,6 +83,11 @@ The findings presented in this report provide valuable insights into various asp
 
 Through these key steps, the Superstore Sales Dashboard in Power BI enables users to gain valuable insights, identify trends, and make data-driven decisions to optimize sales performance and improve overall business outcomes.  
 </details>  <br><br>
+
+<details><summary><strong>Credits :</strong></summary>
+Thank you Rishabh Mishra for the guidance.
+[Guided Project Youtube Video Click Here](https://www.youtube.com/watch?v=fZn83JRt4Nk&t=560s)</details><br><br>
+
 <details><summary><strong>See More Projects here:</strong></summary>
 
 1. <a href="https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/">Bank Domain Dashboard</a> <br>
