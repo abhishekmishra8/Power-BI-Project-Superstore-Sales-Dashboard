@@ -15,7 +15,7 @@ click the Github Page Link to see the video
 - Data Analysis
 - Sales Forecasting
 - Actionable Insights and Recommendations
-</details><br><br>
+</details>
 
 <details><summary><strong>Business Insights Report: Analyzing Key Findings</strong></summary>
 
@@ -51,11 +51,11 @@ California dominated sales, with the highest sum, accounting for 30.92% of the t
 
 <b>Conclusion:</b><br>
 The findings presented in this report provide valuable insights into various aspects of our business. By analyzing payment modes, regions, customer segments, sales performance, profitability, shipping modes, product categories, sales forecasts, and state-wise sales, we can make informed decisions and formulate strategies to optimize operations, drive growth, and enhance profitability. It is crucial to continue monitoring these metrics, conduct further analysis, and adapt our strategies based on evolving customer preferences and market dynamics. By leveraging these insights effectively, we can stay ahead of the competition and deliver exceptional value to our customers.
-</details><br><br>
+</details>
 
 
 
-<details><summary><strong>Key Learnings from the Power BI Project on Superstore Sales Dashboard:-</strong></summary>
+<details><summary><strong>Key Learnings from the Power BI Project on Superstore Sales Dashboard:-</strong></summary><br>
 
 1. Data Import: Importing CSV files into Power BI and connecting them to create a dataset for analysis.<br><br>
 
@@ -81,7 +81,7 @@ The findings presented in this report provide valuable insights into various asp
 - Sum of Sales, Profit, Quantity, Average Delivery Time ( Create New column Step 10)<br><br>
 
 10. Add new Column. This helps analyze the efficiency of order processing and delivery.<br>
-- `AvgDeliveryTime = DATEDIFF('SuperStore_Sales_Dataset'[Order Date],'SuperStore_Sales_Dataset'[Ship Date],DAY)` <br><br>
+-   AvgDeliveryTime = DATEDIFF('SuperStore_Sales_Dataset'[Order Date],'SuperStore_Sales_Dataset'[Ship Date],DAY) <br><br>
 
 11. Sales Forecast: Adding a new page to showcase sales forecast using a line chart visual. This allows users to analyze and predict future sales trends based on historical data.<br><br>
 
