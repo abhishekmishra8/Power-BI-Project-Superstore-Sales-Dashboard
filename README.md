@@ -4,10 +4,10 @@
 
 <details open>
 <summary>Dashboards List</summary>
-<br>
 
 - [Bank Domain Dashboard](https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/)
 - [HR Employees Dashboard](https://abhishekmishra8.github.io/PowerBI_Project_HR_Employees/)
+
 </details>
 
 <br>
