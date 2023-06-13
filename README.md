@@ -5,7 +5,7 @@
 <details open>
 <summary>Dashboards List</summary>
 
-- [Bank Domain Dashboard](https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/)
+- [Bank Domain Dashboard](https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/) <br>
 - [HR Employees Dashboard](https://abhishekmishra8.github.io/PowerBI_Project_HR_Employees/)
 
 </details>
